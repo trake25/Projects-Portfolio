@@ -1,42 +1,47 @@
-# Projects-Portfolio
+# 🎮 Projects Portfolio  
+**Name:** Enrique Dela Peña Jr  
+**Email:** enriquedelapenajr@gmail.com  
 
-# Name: Enrique Dela Peña Jr Game Developer Portfolio
-# Contact Email: enriquedelapenajr@gmail.com
+---
 
-## 🎮 Published Game
-- [Google Play Store]
-  Title: SpaceSheeps Pinball
-  Category: Arcade Casual Mobile 2D Physics 
-  Engine: Godot 4
-  Programming / Scripting: GDScript
-  Start Date: March 2025
-  Release Date: June 2025
-  Download Link: https://play.google.com/store/apps/details?id=com.galaxxigames.spacesheepspinball
-  Video Link: https://www.youtube.com/watch?v=IWa4SV9MkYw
-  Github Link: NA
+## 🎯 Published Game
 
-## 💻 Ongoing Projects
-- Title: Pulang Sandata
-  Category: 4X Strategy Game
-  Engine: Godot 4
-  Programming / Scripting: GDScript
-  Start Date: June 2025
-  Release Date: NA
-  Download Link: NA
-  Video Link: https://www.youtube.com/watch?v=fkbuMNCN0vI
-  Github Link: https://github.com/trake25/PulangSandata
+### **[SpaceSheeps Pinball](https://play.google.com/store/apps/details?id=com.galaxxigames.spacesheepspinball)**
+- **Category:** Arcade, Casual, Mobile, 2D Physics  
+- **Engine:** Godot 4  
+- **Programming Language:** GDScript  
+- **Start Date:** March 2025  
+- **Release Date:** June 2025  
+- **Download:** [Google Play Store](https://play.google.com/store/apps/details?id=com.galaxxigames.spacesheepspinball)  
+- **Video:** [YouTube Trailer](https://www.youtube.com/watch?v=IWa4SV9MkYw)  
+- **GitHub:** *Not Available (Closed Source)*  
 
-- Title: Kids Quiz Tower
-  Category: Educational
-  Engine: Roblox Studio
-  Programming / Scripting: Lua
-  Start Date: July 2025
-  Release Date: July 2025
-  Download Link: https://www.roblox.com/share?code=59c5bf1a9025db4f90508e722dccd697&type=ExperienceDetails&stamp=1752751890757 
-  Video Link: NA
-  Github Link: https://github.com/trake25/RobloxLuaKidsQuizTower
+---
 
-## 🌐 Play My Games
-- [SpaceSheeps Pinball] https://play.google.com/store/apps/details?id=com.galaxxigames.spacesheepspinball
-- [Roblox Kids Quiz Tower] https://www.roblox.com/share?code=59c5bf1a9025db4f90508e722dccd697&type=ExperienceDetails&stamp=1752751890757
-  
+## 🛠️ Ongoing Projects
+
+### **[Pulang Sandata](https://github.com/trake25/PulangSandata)**
+- **Category:** 4X Strategy Game  
+- **Engine:** Godot 4  
+- **Programming Language:** GDScript  
+- **Start Date:** June 2025  
+- **Release Date:** TBD  
+- **Video:** [Gameplay Demo](https://www.youtube.com/watch?v=fkbuMNCN0vI)  
+- **GitHub:** [View on GitHub](https://github.com/trake25/PulangSandata)  
+
+---
+
+### **[Kids Quiz Tower](https://www.roblox.com/share?code=59c5bf1a9025db4f90508e722dccd697&type=ExperienceDetails&stamp=1752751890757)**
+- **Category:** Educational (Quiz Game for Kids)  
+- **Engine:** Roblox Studio  
+- **Programming Language:** Lua  
+- **Start Date:** July 2025  
+- **Release Date:** July 2025  
+- **Download / Play:** [Play on Roblox](https://www.roblox.com/share?code=59c5bf1a9025db4f90508e722dccd697&type=ExperienceDetails&stamp=1752751890757)  
+- **GitHub:** [View Scripts on GitHub](https://github.com/trake25/RobloxLuaKidsQuizTower)  
+
+---
+
+## 🌐 Quick Access – Play My Games
+- 🔗 [SpaceSheeps Pinball (Google Play)](https://play.google.com/store/apps/details?id=com.galaxxigames.spacesheepspinball)  
+- 🔗 [Kids Quiz Tower (Roblox)](https://www.roblox.com/share?code=59c5bf1a9025db4f90508e722dccd697&type=ExperienceDetails&stamp=1752751890757)
