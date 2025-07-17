@@ -13,8 +13,8 @@
 - **Start Date:** March 2025  
 - **Release Date:** June 2025  
 - **Download:** [Google Play Store](https://play.google.com/store/apps/details?id=com.galaxxigames.spacesheepspinball)  
-- **Video:** [YouTube Trailer](https://www.youtube.com/watch?v=IWa4SV9MkYw)  
-- **GitHub:** *Not Available (Closed Source)*  
+- **Video:** [YouTube Gameplay Trailer](https://www.youtube.com/watch?v=IWa4SV9MkYw)  
+- **GitHub:** *Not Available*  
 
 ---
 
@@ -26,7 +26,7 @@
 - **Programming Language:** GDScript  
 - **Start Date:** June 2025  
 - **Release Date:** TBD  
-- **Video:** [Gameplay Demo](https://www.youtube.com/watch?v=fkbuMNCN0vI)  
+- **Video:** [Devlog#2](https://www.youtube.com/watch?v=fkbuMNCN0vI)  
 - **GitHub:** [View on GitHub](https://github.com/trake25/PulangSandata)  
 
 ---
